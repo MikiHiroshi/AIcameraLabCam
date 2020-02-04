@@ -1,7 +1,7 @@
 # AIcameraLabCam
 AI Camera LabCam with M5StickV and M5StickC
 
-LabCam: https://camp-fire.jp/projects/211754/preview?token=1fi4q7fr.
+LabCam: https://camp-fire.jp/projects/211754/preview?token=1fi4q7fr
 LabCam movie: https://youtu.be/PtSoUgCXeSI
 
 Firmware in M5StickV MUST be maixpy_v0.4.0_39_g083e0cc_m5stickv.bin
