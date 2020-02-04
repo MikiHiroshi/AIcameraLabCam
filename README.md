@@ -15,7 +15,7 @@ Special thanks to ミクミンP/@ksasao.
 
 To connect with M5stickC, the code(boot.py) was modified as shown with markout.
 
-The code "boot.py" and "LabCam_for_M5stickC.ino" are written with reference to @nnn112358.
+The code "boot.py" and "LabCam_for_M5stickC.ino" are written with reference to the article written by @nnn112358.
 https://qiita.com/nnn112358/items/5efd926fea20cd6c2c43
 
 Special thanks to ano研/@nnn112358.
